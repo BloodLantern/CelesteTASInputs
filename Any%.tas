@@ -1,4 +1,4 @@
-RecordCount: 46
+RecordCount: 47
 
 #Start
 
@@ -20,5 +20,13 @@ Read,EndChapter
 Read,Load4A
 
 Read,4A - GoldenRidge,Start
+Read,EndChapter
+Read,LoadASide
+
+Read,5A - MirrorTemple,Start
+Read,EndChapter
+Read,LoadASide
+
+Read,6A - Reflection,Start
 Read,EndChapter
 Read,LoadASide
