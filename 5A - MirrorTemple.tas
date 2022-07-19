@@ -1,4 +1,4 @@
-RecordCount: 2068
+RecordCount: 2142
 
 #Setup
 console load 5
@@ -308,30 +308,37 @@ console load 5
   40
 
 #Room 14
+***S
 
    5,R
    9,R,J
   11,R,D,X
   26,R,J
   14,R,V
-  16,R,J
-  11,R,X
+  15,R,J
+  13,R,D,X
   40
 
 #Room 15
 
-  10,R
+   2,R,J
   14,R,D,X
-   1,J
+   1,R,J
   14,R,D,X
-   2,J
-  14,R,X
+   1,R,J
+   7,R
+  11,R,J
+   3,R
+   1,R,K,G
+   5,R,K
+   1,R,J,G
+   3,R,J
+  14,R,V
   22,R,J
-  17,R,U,X
- 124,R,C
-  26,R,D,X
-  63,L,C
-  16,L,U,X
+   1,R,K,G
+  15,R,K
+  29,R
+  15,R,V
   33,U,C
   14,R,D,X
    1,J
