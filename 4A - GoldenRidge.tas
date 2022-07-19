@@ -1,4 +1,4 @@
-RecordCount: 1306
+RecordCount: 1386
 
 console load 4
    1
@@ -148,47 +148,54 @@ EndRepeat
   20,D
   17,R,D
   15,R,X
-  10,R,C
+  10,R,D,C
   40
 
 #lvl_a-07
 
-   4,R,C
-  27,R,J
-  15,U,X
-  22,R,C
-   8
-   9,L,J
-  24,L
-  15,U,X
-  15,L,U,C
-  13,L,G
-  10,J,G
-   4,R,K
-  31,R,D
-  10,D
-  29,R,D
-  14,R,X
-  11,R,J
-  32,R,U,X
-  23,R,C
+   3,R,D,C
+   8,R,J
+  13,R,U,V
+  15,R,U,X
+  18,R,J
+  12,R,K,G
+  12,J,G
+  12,K,G
+  15,L,J
+  15,L,X
+  22,L,J
+   1,R,K
+  35,R,D
+  15,R,D,X
+  15,R,U,C
+   8,R
+   8,R,X
+  16,R,J
+   3,R
+   2,R,J
+  10,R,V
+   5,R,J
+   9,R,D,X
   40
 
 #lvl_a-08
 
-   4,R
-  14,R,V
-  26,R,J
+   9,R,J
+  10,R,D,X
+   6,R,J
    2,R
-  18
-  12,R,J
+   4
   14,R,X
-  34,R,J
-  34,U,X
+  23,R,J
+  37,U,X
   11,R,C
   15,R,J
-  23,U,X
-  15,U,C
+  15,U,X
+  21
+  10,R,X
+  23,R,J
+  16,U,X
+  12,U,C
   12,U,X
   40
 
