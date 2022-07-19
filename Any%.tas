@@ -1,4 +1,4 @@
-RecordCount: 47
+RecordCount: 48
 
 #Start
 
@@ -17,7 +17,7 @@ Read,LoadASide
 
 Read,3A - CelestialResort,Start
 Read,EndChapter
-Read,Load4A
+Read Load4A
 
 Read,4A - GoldenRidge,Start
 Read,EndChapter
