@@ -1,0 +1,14 @@
+RecordCount: 15
+
+#Setup
+console rmx2 2
+   1
+
+#Start
+  91
+
+#lvl_00
+   1,J
+   8,L,J
+  14,R,D,X
+Read,2C.tas,12
