@@ -1,7 +1,7 @@
 RecordCount: 122
 
 #Setup
-Read,2A - OldSite.tas,Setup,Cassette desync
+Read,2A - OldSite,Setup,Cassette desync
 
 #lvl_d2
   10,L,D,X

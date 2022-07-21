@@ -1,0 +1,14 @@
+RecordCount: 6
+
+#Setup
+console rmx2 4
+   1
+
+#Start
+  61
+
+#lvl_00
+   1,J
+   8,R,J
+  10,R,D,X
+Read,4C,12
