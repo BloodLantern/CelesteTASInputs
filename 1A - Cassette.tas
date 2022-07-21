@@ -1,0 +1,102 @@
+RecordCount: 249
+
+#Setup
+Read,1A - ForsakenCity,1,Cassette desync
+
+#lvl_9b
+   8,R,D,X
+   1,R,J
+   7,R
+  10,R,J
+  12,L,U,X
+   1,L,J,G
+  11,L
+   6,L,J
+  11,L,K,G
+  18,L,U,V
+  12,L,J,G
+   1,K
+   4,L,K
+  12,L,J,G
+   9,L,K,G
+  40
+
+#lvl_10
+  11,L
+  10,L,D,X
+   1,L,J
+   7,L
+   3,R
+  15,D,X
+  24
+  20,J
+   7,R
+  10,L,U,X
+   1,L,J,G
+  14,L
+  12,L,J
+   5,U,V
+   1,L
+   7
+  40
+
+#lvl_11
+  13,J
+  11
+   1,G
+   5
+  24,G
+   5,J,G
+  13,L,X
+  40
+
+#lvl_11z
+   1,L
+  22,L,J
+  16,U,X
+   1,L,J
+   2,L
+   2,L,K
+   1,L
+   3,L,J
+  18,L,K
+   1,R,J
+  18,R
+  10,R,U,X
+ 258
+   1,J
+ 120
+  17,R,D
+   7,R
+  40
+
+#lvl_11
+   1,G
+  32,R
+   6,L
+   7
+ 140,G
+  71,U,G
+   8,R,J
+  15,R,D,X
+  12,L,D
+  15,L,X
+  11,D,C
+  40
+
+#lvl_10
+   4,D
+  15,D,X
+   8,J
+  15,D,X
+  18,R,D
+  17,L,D
+  40
+
+#lvl_9b
+   4,L
+  15,D,X
+   2,R
+  11,R,J
+  12,L,D
+Read,1A - ForsakenCity,Cassette resync

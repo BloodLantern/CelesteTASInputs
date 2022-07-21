@@ -1,4 +1,4 @@
-RecordCount: 876
+RecordCount: 877
 
 #Setup
 console load 1
@@ -215,13 +215,16 @@ console load 1
   40
 
 #Room 15
+#Cassette desync
 
    1
   10,R,D,X
   18,R,J
   15,L,U,X
   15,L
-  58,L,J,G
+  18,L,J,G
+#Cassette resync
+  40,G
   28,R,K
   15,R,U,X,G
    9,J,G

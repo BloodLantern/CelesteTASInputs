@@ -1,4 +1,4 @@
-RecordCount: 1103
+RecordCount: 1104
 
 #Setup
 console load 2
@@ -95,6 +95,7 @@ console load 2
   48,L,J
   21,L,V
   27,L,J
+#Cassette desync
    7,L,V
   40
 
@@ -103,8 +104,9 @@ console load 2
   24,L
   45,L,V
   18,L,J
-  21,U,X
-  13,J
+  23,U,X
+#Cassette resync
+  11,J
   14,U,X
   55,R,J
   12,K,G
