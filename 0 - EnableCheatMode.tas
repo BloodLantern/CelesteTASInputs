@@ -1,0 +1,25 @@
+RecordCount: 461
+
+#setup
+console load 0
+
+#Start
+   1
+  61
+
+#lvl_0
+
+   1,L,J
+   9,L
+  40
+
+#lvl_-1
+
+   1,L
+   1,R,N
+   1,G
+   1,F,
+   1,L,U,D,G
+   1,J
+
+ 122
