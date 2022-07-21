@@ -1,4 +1,4 @@
-RecordCount: 1386
+RecordCount: 1387
 
 console load 4
    1
@@ -218,7 +218,7 @@ EndRepeat
    1,K
    9,R,K
    1,J
-   3,R,J
+   7,R,J
   40
 
 #lvl_b-00
