@@ -1,0 +1,90 @@
+RecordCount: 466
+
+#Setup
+console rmx2 5
+   1
+
+#Start
+  61
+
+#lvl_00
+
+  14,R,D,X
+  23,R,J
+  18,U,X
+  20,R,U,C
+  10,R
+  14,L
+  40,R,J
+  15,R,U,X
+  17,R
+  10,D
+  30,R,J
+  14,L
+   6,R,J
+  37,R
+  10,J,G
+   7,K,G
+   8,R
+  14,R,D,X
+   2,R,J
+  40
+
+#lvl_01
+
+  14,R,D,X
+  20,R,J
+  16,R
+  21,R,V
+   5,R,J
+  14,R,V
+   1,R,J
+   5,R,D,X
+  40
+
+#lvl_02
+
+   9,R,D,X
+  31,R,J
+  28,R,X
+  29,R,U,C
+  15,L,U,X
+  41,R,D,C
+  15,U,X
+  25,L,J
+  10,K,G
+   7,J,G
+  19,D
+  65,R,J
+  16,U,X
+  30,R,J
+  10,L
+  22,D
+  43,R,J
+  21,R,V
+  24,R,X
+  14,U,C
+  36,R,J
+  24,D
+  27,R,J
+  69,R,X
+  15,R,U,C
+  15,R,D,X
+  19,R,J
+  14,U,X
+   5,R,J
+  10,R
+  15,R,X
+  15,U,C
+  30,R,D
+  21,R,U,X
+   1,J
+  24,L,J
+   6,K,G
+  13,R,J
+  27,R,K
+   5,R,D,X
+ 194,D
+   1,J
+ 196
+
