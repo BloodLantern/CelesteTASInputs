@@ -1,14 +1,14 @@
-RecordCount: 6
+RecordCount: 21
 
 #Setup
-console rmx2 4
+console rmx2 5
    1
 
 #Start
   61
 
 #lvl_00
-   1,J
-   8,R,J
-  10,R,D,X
-Read,5C,12
+   3,J
+   6,R,J
+  14,R,D,X
+Read,5C.tas,13
