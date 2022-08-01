@@ -6,7 +6,8 @@ console load 3
 #Start
   61
 
-#1
+#lvl_s0
+
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -18,7 +19,8 @@ console load 3
   12,R,D,X
   40
 
-#2
+#lvl_s1
+
    2,R,D
    1,R,J
   14,R,D,X
@@ -33,7 +35,8 @@ console load 3
   11,R,D,X
   40
 
-#3
+#lvl_s2
+
    3,R,D
    1,R,J
   14,R,D,X
@@ -51,7 +54,8 @@ console load 3
    6,R,U,X
   40
 
-#4
+#lvl_s3
+
   17,R
   15,R,U,X
   17,R,J,G
@@ -74,7 +78,8 @@ EndRepeat
    8,R,D,X
   40
 
-#5
+#lvl_0x-a
+
    7,R,J
   15,R,U,X
   21,R
@@ -91,7 +96,8 @@ EndRepeat
    2,R,J
   40
 
-#6
+#lvl_00-a
+
   12,R,J
   15,R,V
    7,R,J
@@ -111,7 +117,8 @@ EndRepeat
    8,R,J
   40
 
-#7
+#lvl_02-a
+
   15,R,U,V
   10,R
    6,D
@@ -129,7 +136,8 @@ EndRepeat
    5,J,G
   40
 
-#8
+#lvl_02-b
+
   10,J,G
   11,L,D,X
   10,L,J
@@ -153,7 +161,8 @@ EndRepeat
    8,R,D,X
   40
 
-#9
+#lvl_02-a
+
   10,L,D
   15,L,D,X
    1,D
@@ -171,7 +180,8 @@ EndRepeat
    5,R,J
   40
 
-#10
+#lvl_03-a
+
   10,R
    1,L
    8,R
@@ -196,7 +206,8 @@ EndRepeat
   14,R,D,X
   40
 
-#11
+#lvl_05-a
+
    6,R,J
   20,U,X
   10,R,J
@@ -213,7 +224,8 @@ EndRepeat
    2,R
   40
 
-#12
+#lvl_06-a
+
   15,R,D,X
   12,R,D
   15,R,V
@@ -232,14 +244,16 @@ EndRepeat
    1,R
   40
 
-#13
+#lvl_07-a
+
   12,R
   20,U,X
   15,R,J
    1
   40
 
-#14
+#lvl_07-b
+
   10,J,G
   10,K,G
   11,L,X
@@ -247,7 +261,8 @@ EndRepeat
    6,L,U,X
   40
 
-#15
+#lvl_06-b
+
   11,L
   15,L,V
    2,L
@@ -264,7 +279,8 @@ EndRepeat
    9,J,G
   40
 
-#16
+#lvl_06-c
+
   15
   10,R,D,X
   12,R,J
@@ -294,7 +310,8 @@ EndRepeat
   12,R,X
   40
 
-#17
+#lvl_08-c
+
    3
    3,R
    8,R,X
@@ -325,7 +342,8 @@ EndRepeat
   12,D
   40
 
-#18
+#lvl_08-b
+
    8,L,D
    1,L,J
    3,L
@@ -346,7 +364,8 @@ EndRepeat
    1,L,J
   40
 
-#14
+#lvl_07-b
+
   10,L
   10,L,D,X
   12,L,J
@@ -362,7 +381,8 @@ EndRepeat
    3,D
   40
 
-#13
+#lvl_07-a
+
   15,D,X
   10,D
    1,L,J
@@ -383,8 +403,8 @@ EndRepeat
    9,R,D,X
   40
 
-#Huge Mess
-#1
+#lvl_08-a
+
    5,R
    1,R,J
   14,R,D,X
@@ -402,7 +422,8 @@ EndRepeat
   11,R,J
   40
 
-#2 - Big room
+#lvl_09-b
+
   11,R
   15,R,U,X
    9,R
@@ -502,13 +523,14 @@ EndRepeat
    3,D
   40
 
-#Bottom path
-#3
+#lvl_10-x
+
    5,D
    9,R,X
   40
 
-#4
+#lvl_11-x
+
   30,R,D
   10,R,D,X
   12,R,J
@@ -527,7 +549,8 @@ EndRepeat
   15,D,X
   40
 
-#5
+#lvl_11-y
+
    6,L,D
   15,L,X
   12,D,C
@@ -547,7 +570,8 @@ EndRepeat
   11,D
   40
 
-#6
+#lvl_11-z
+
   14,R,D,X
   38,R,D
   10,L,D,X
@@ -562,7 +586,8 @@ EndRepeat
    1,L,J
   40
 
-#7
+#lvl_10-z
+
    1,L,J
    5,R,J
   12,R,K
@@ -574,7 +599,8 @@ EndRepeat
   10,L,J
   40,J
 
-#8
+#lvl_10-y
+
   11,J
   15,U,X
   15,L,J
@@ -586,7 +612,8 @@ EndRepeat
   11,L,J
   40
 
-#3
+#lvl_10-x
+
   11,R
    6,U,X
   12,L,J
@@ -609,7 +636,8 @@ EndRepeat
    7,U,X
   40
 
-#2 - Big room
+#lvl_09-b
+
   15,L,J
   14,L,X
    1,L,J
@@ -658,8 +686,8 @@ EndRepeat
   12,L,J,G
   40
 
-#Up path
-#9
+#lvl_10-c
+
    2,L
   12,J,G
    4,L
@@ -688,7 +716,8 @@ EndRepeat
    3,R,J
   40
 
-#10
+#lvl_11-c
+
   28,R
   15,R,U,X
   19,L,D
@@ -701,12 +730,14 @@ EndRepeat
    8,R,X
   40
 
-#11
+#lvl_12-c
+
    7,R,J
   10,U,X
   40
 
-#12
+#lvl_12-d
+
   11,R
    9,U,X
   13,R,J
@@ -732,7 +763,8 @@ EndRepeat
   10,L,D,X
   40
 
-#13
+#lvl_11-d
+
    8,L,J
   20,L,D
   22,D
@@ -747,7 +779,8 @@ EndRepeat
    8,L,J
   40
 
-#14
+#lvl_10-d
+
    8,L
    8,U,X
    5,L,J
@@ -774,11 +807,13 @@ EndRepeat
    7,D
   40
 
-#9
+#lvl_10-c
+
   43,R,D
   40
 
-#2 - Big room
+#lvl_09-b
+
   13,D
   15,R,C
    1,X
@@ -792,8 +827,8 @@ EndRepeat
   14,R,X
   40
 
-#Right path
-#15
+#lvl_11-b
+
    5,R
    1,R,J
   16,R
@@ -817,7 +852,8 @@ EndRepeat
    1,R,J
   40
 
-#16
+#lvl_12-b
+
    3,R,J
   10,R,D,X
   20,R,J
@@ -829,7 +865,8 @@ EndRepeat
    5,R,X
   40
 
-#17
+#lvl_13-b
+
   12,R,J
   10,R,X
    7,R,J
@@ -857,7 +894,8 @@ EndRepeat
    8,D,X
   40
 
-#18
+#lvl_13-a
+
    7
   10,L,D,X
    1,L,J
@@ -887,7 +925,8 @@ EndRepeat
   11,D
   40
 
-#19
+#lvl_13-x
+
    2,L
   15,L,D,X
   18,D
@@ -909,7 +948,8 @@ EndRepeat
    9,L,J
   40
 
-#20
+#lvl_12-x
+
    3,L,J
   13,L
   15,L,U,X
@@ -929,7 +969,8 @@ EndRepeat
    9,J,G
   40
 
-#21
+#lvl_11-a
+
   12,J,G
    2,L,K,G
   10,L,X
@@ -950,7 +991,8 @@ EndRepeat
    7,L
   40
 
-#2 - Big room
+#lvl_09-b
+
    5,L
    1,L,D,J
   11,L,J
@@ -990,8 +1032,8 @@ EndRepeat
    4,J
   40
 
-#Elevator Shaft
-#1
+#lvl_09-d
+
   25,R
   12,R,X
   12,R,J
@@ -1014,7 +1056,8 @@ EndRepeat
   14,L,D,X
   40
 
-#2
+#lvl_08-d
+
    2,L
    1,L,D,J
   11,L,J
@@ -1040,7 +1083,8 @@ EndRepeat
   15,L,X
   40
 
-#3
+#lvl_06-d
+
    6,D
   15,D,X
   25,D
@@ -1080,7 +1124,8 @@ EndRepeat
   11,L,D,X
   40
 
-#4
+#lvl_04-d
+
    1,L,J
    7,L
   27,L,D
@@ -1116,7 +1161,8 @@ EndRepeat
    5,L,J
   40
 
-#5
+#lvl_02-d
+
    7,L,J
    6,L
   14,L,U,X
@@ -1162,8 +1208,8 @@ EndRepeat
   11,L,X
   40
 
-#Presidential Suite
-#1
+#lvl_00-d
+
    1,S
    1,D,J
   37
@@ -1180,7 +1226,8 @@ EndRepeat
    3
   40
 
-#2
+#lvl_roof00
+
   11
    1,S
    1,D,J
@@ -1208,7 +1255,8 @@ EndRepeat
    5,R,U,X
   40
 
-#3
+#lvl_roof01
+
   40,R
   10,R,V
   12,R,J
@@ -1219,7 +1267,8 @@ EndRepeat
    4,R,J
   40
 
-#4
+#lvl_roof02
+
    8,R,J
    2,R
   10,R,D,X
@@ -1237,7 +1286,8 @@ EndRepeat
    6,R,D,X
   40
 
-#5
+#lvl_roof03
+
   12,R,J
    3,R
   13,R,X
@@ -1303,7 +1353,8 @@ EndRepeat
    1,R,J
   40
 
-#6
+#lvl_roof04
+
    1,R,J
    6,R,D
    7,R,D
@@ -1335,7 +1386,8 @@ EndRepeat
    4,R
   40
 
-#7
+#lvl_roof05
+
    3,R,J
    1,R
    7,R,D,X
@@ -1374,7 +1426,8 @@ EndRepeat
    6,R
   40
 
-#8
+#lvl_roof06b
+
    1,R
    1,R,J
   10,R,D,X
@@ -1403,7 +1456,8 @@ EndRepeat
    4,R
   40
 
-#9
+#lvl_roof06
+
    2,R
    1,R,J
    2,R
@@ -1464,7 +1518,8 @@ EndRepeat
    7,R,J
   40
 
-#10
+#lvl_roof07
+
    1,S
    1,D,J
 
