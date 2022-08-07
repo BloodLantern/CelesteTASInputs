@@ -1,4 +1,4 @@
-RecordCount: 58
+RecordCount: 105
 
 #Start
 
@@ -7,35 +7,36 @@ Read,Menu - StartFiles
 Read,0 - Prologue,Start
 Read,Menu - LoadASide
 
-Read,1A - ForsakenCity,Start
+Read,1A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - LoadASide
 
-Read,2A - OldSite,Start
+Read,2A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - LoadASide
 
-Read,3A - CelestialResort,Start
+Read,3A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - Load4A
 
-Read,4A - GoldenRidge,Start
+Read,4A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - LoadASide
 
-Read,5A - MirrorTemple,Start
+Read,5AC.tas,Start,Cassette obtained
+Read,Menu - LoadBFromACassette
+Read,5B.tas
 Read,Menu - EndChapter
-Read,Menu - LoadASide
+Read,Menu - Load6A
 
-Read,6A - Reflection,Start
+Read,6A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - Load7A
 
-Read,7A - TheSummit,Start
+Read,7A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - LoadEpilogue
 
 Read,0 - Epilogue,Start
-***S
 
    1

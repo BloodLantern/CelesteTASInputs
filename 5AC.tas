@@ -1,0 +1,154 @@
+RecordCount: 2551
+
+#Setup
+console load 5
+   1
+
+#Start
+Read,5A.tas,0,lvl_b-02
+
+#lvl_b-02
+  10,R,D,X
+   1,R,J
+   7,R
+  14,R,D,X
+   1,R,J
+   7
+   6,L
+  15,L,D,X
+  35,L
+  66,R,X
+  40
+
+#lvl_b-11
+   4
+  10,R,D,X
+  10,R,J
+   4,J
+   1,R,J
+  12,R,K,G
+  23,R,K
+   9,R,U,X
+   1,L,J,G
+   7,R,J
+   5,R
+   1,R,J
+   6,R
+   1,R,J
+   3,R
+  15,U,X
+  15,L,D
+  10,D
+  61,R,D
+   4,R,V
+   2,R,J
+   1,R
+  40
+
+#lvl_b-13
+   6,R
+   5,R,J
+  17,R,U,X
+   7,R,J,G
+  12,R
+  10,R,X
+  12,R,J
+   5,R
+   5,R,J
+  15,U,X
+  25,R
+  10,L,D,X
+   7,L,J
+  17,L,U,X
+  45,D
+  15,R
+  12,R,J
+  15,R,X
+  36,R
+   4,R,V
+   2,R,J
+   8,R
+  58
+
+#lvl_b-17
+   7,R,J
+  18,R,D,X
+   1,R,J
+   4,R
+   2
+  10,R,J,G
+   4,R
+  10,R,D,X
+   1,R,J,G
+  12,R
+   1,R,J
+  14,R,D,X
+   3,R,J
+  40,J
+
+#lvl_b-22
+   3,R,J
+   1,L,K,G
+   1,R,K
+   2,K
+   1,R,J,G
+   1,R
+  10,R,D,X
+   9,L,J
+   3,R,K
+  10,R,D,X
+   5,R,J
+  15,D,C
+   4,R,V
+   3,R,J
+  44,R,C
+  21,G
+   1
+   1,J
+   3,R,J
+   5,R
+  10,R,J
+   5,R
+   1
+   1,R,J,G
+   1,R,K,G
+   3,R,J
+  15,R
+  14,R,V
+  12,R,J
+   1,R
+  11,R,J
+  14,R
+  11,J,G
+  13,R,U,X
+   1,L,J,G
+  11,R,J
+   4,K,G
+  10,L,J
+   7,L
+  10,L,V
+   1,L,J
+   6,L
+  15,L,U,X
+  26,D
+Repeat,18
+   1
+   1,D
+EndRepeat
+  10,L,V
+   5,L,J
+   3,L
+   1,L,J,G
+   8,L
+  20,L,D,X
+   1,L,J
+  12,L,U,X
+ 258
+   1,J
+  62
+#Cassette obtained
+  58
+#TODO
+  40
+
+ChapterTime: 4:43.849(16697)
