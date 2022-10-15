@@ -1,0 +1,33 @@
+RecordCount: 107
+
+#Start
+
+Read,Menu - StartFiles
+
+Read,0 - EnableCheatMode,Start
+Read,Menu - LoadCSide
+
+Read,1C.tas,Start
+Read,Menu - EndCSide
+Read,Menu - LoadCSide
+
+Read,2C.tas,Start
+Read,Menu - EndCSide
+Read,Menu - LoadCSide
+
+Read,3C.tas,Start
+Read,Menu - EndCSide
+Read,Menu - LoadCSide
+
+Read,4C.tas,Start
+Read,Menu - EndCSide
+Read,Menu - LoadCSide
+
+Read,5C.tas,Start
+Read,Menu - EndCSide
+Read,Menu - LoadCSide
+
+Read,6C.tas,Start
+Read,Menu - EndCSide
+
+   1

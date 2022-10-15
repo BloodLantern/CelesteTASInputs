@@ -1,4 +1,4 @@
-RecordCount: 210
+RecordCount: 254
 
 #Setup
 console rmx2 2
@@ -58,26 +58,19 @@ console rmx2 2
 #lvl_02
    6,R
   10,R,J
-  23,R,X
+  22,R,X
+   1,L,G
    3
-   4,R
+  27,R
+  65,R,X
+   1,R,J
+   3
+  10,R,J
+  17,R
+  13,R,U,X
+   1,R,J
+   3
   12,R,J
-   1,R
-  10,R,J
-  16,R
-  21,L,X
-   1,L,J
-   1,L
-  31,R
-  70,R,X
-   1,R,J
-   3
-  10,R,J
-  19,R
-  14,R,U,X
-   1,R,J
-   3
-   9,R,J
   23,R,X
    1,R,J
    3
@@ -87,20 +80,14 @@ console rmx2 2
   34,R,C
    1,R,J
    3
-   1,R,J
-  20,R,D
-  17,D
-   4,R,D
-  15,R,V
-   3
+  12,R,J
+   5,R
+  10,R,J
+  15,R
+  15,R,X
    1,R
-  18,U,X
-   2,L
-  18,R,X
-  14,U,C
    3
-   1
-  38,R,X
+  45,R,X
    1,L,G
    3
   20,D
@@ -108,7 +95,7 @@ console rmx2 2
    4,D
    2,R,D
   32,R,V
-Repeat,3
+Repeat,2
    1,R,J
    3
    1,R,J
@@ -117,17 +104,26 @@ Repeat,3
 EndRepeat
    1,R,J
    3
-   9,R,J
-   9,R
-  28,G
-   1,L,J
-  11,L,K
- 125,L,X
+   1,R,J
+  23,R
+  15,R,U,X
+   3
+   4,R
+  12,L,J
+   5,L
+   1,J
+   4,R,J
+   5,L
+  12,L,J,G
+   6,K,G
+ 114,L,X
    1,L,J
    3
    1,L,K
    7,L
-   6,L,X
+   6,L,D,X
  194,D
    1,J
  196
+
+ChapterTime: 0:20.706(1218)
