@@ -1,31 +1,19 @@
-RecordCount: 122
+RecordCount: 136
 
 #Setup
-Read,2A - OldSite,Setup,Cassette desync
-
-#lvl_d2
-  10,L,D,X
-  40
+Read,2A,Setup,Cassette desync
 
 #lvl_d0
-   5,L,D,X
-  15,L,D,C
    1,L,J
-   2,L
-   5,D,X
-   1,L
+  30,L,D
+  34,D
+  31,D,X
+   3
    9,D
-  43,L,D
-   1,L,J
-  14,L
-  36,D,X
-   5,D,C
-   1,L
-   4,D
   40
 
 #lvl_d9
-   8,R,D,O
+   8,R,D
   14,R,D,X
    1,R,J
   14,R,D,X
@@ -52,8 +40,9 @@ Read,2A - OldSite,Setup,Cassette desync
    2,L
  258
    1,J
- 124
+  62
 #Cassette obtained
+  58
    7,L,J
   15,L,U,X
    3,L,J
@@ -73,11 +62,12 @@ EndRepeat
   37,U,X
   13,R,J
   12,R,K,G
-  12,L,J
-   3,L
-  47,L,X
    1,L,J
-   3
-  11,L,J
-  29,U,X
-Read,2A - OldSite,Cassette resync
+  12,L,K
+   5,L
+  10,L,J
+   2,L
+   1,L,X
+Read,2A,Cassette resync
+
+ChapterTime: 1:51.486(6558)
