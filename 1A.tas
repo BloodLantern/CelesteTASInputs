@@ -251,14 +251,15 @@ console load 1
   40
 
 #lvl_9b
-#Cassette desync
    3,R,D,X
   12,R,J
    1,R
    1,R,J
   15,U,X
+#Cassette desync
   21
    2,L
+#Cassette resync
   10,R,Z
   12,R,J
    1,R
@@ -271,7 +272,6 @@ console load 1
    6,R,K
   12,R,J,G
   12,K,G
-#Cassette resync
   40
 
 #lvl_10a
