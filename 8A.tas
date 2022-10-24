@@ -310,6 +310,7 @@ EndRepeat
   16,R
    1,R,J
   16,R
+#Berry 2 desync
    3,R,J
   23,R
   15,R,V
@@ -361,6 +362,7 @@ EndRepeat
    1,R,J,G
    1,R,K,G
   14,R
+#Berry 2 resync
    1,R,J
   16,R
   10,R,J
@@ -408,8 +410,8 @@ EndRepeat
   15,U,X
   13
    6,L
-#  79,R
   20,R
+#Berry 3 desync
   15,R,D,X
   22,R
    1,R,J
@@ -457,6 +459,7 @@ EndRepeat
 
 #lvl_c-04
    9,R
+#Berry 4 resync
    1,R,J
   12,R
    8,R,U,X
