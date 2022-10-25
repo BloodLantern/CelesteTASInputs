@@ -1,4 +1,4 @@
-RecordCount: 618
+RecordCount: 696
 
 #Setup
 Read,8A,Setup,lvl_b-00
@@ -269,4 +269,42 @@ Read,8A,Berry 2 resync,Berry 3 desync
    1
    7,R
 
-Read,8A,Berry 4 resync
+Read,8A,Berry 4 resync,Berry 5 desync
+
+#lvl_d-06
+  14,L,C
+  12,L,J,G
+   7
+  19,G
+  12,R,J
+   5,R
+  10,R,J
+  11,R
+  15,R,U,X
+   3,R
+  11,R,J
+   6,R
+  12,R,J,G
+  12,L,K
+   1,L
+  12,R,J
+   1,K
+   1
+  10,L
+   6,L,J,G
+  13,L
+   4,R
+   1,G
+   4,R
+  23,G
+  12,L,J
+  12,L
+  10,L,J
+   3,L
+  25,G
+  12,J,G
+  40
+
+Read,8A,lvl_d-07
+
+ChapterTime: 3:54.804(13812)

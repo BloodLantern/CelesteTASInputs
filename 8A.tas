@@ -800,6 +800,7 @@ EndRepeat
   15,R,J
    5
   18,U,X
+#Berry 5 desync
    5,R
   15,R,U,X
    5,R
@@ -1324,7 +1325,5 @@ EndRepeat
   15,R,U,X
   14,R,C
  194,D
-   1,J
- 196
 
 ChapterTime: 3:32.874(12522)
