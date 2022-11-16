@@ -1,4 +1,4 @@
-RecordCount: 105
+RecordCount: 110
 
 #Start
 
@@ -23,9 +23,7 @@ Read,4A.tas,Start
 Read,Menu - EndChapter
 Read,Menu - LoadASide
 
-Read,5AC.tas,Start,Cassette obtained
-Read,Menu - LoadBFromACassette
-Read,5B.tas
+Read,5A-B.tas
 Read,Menu - EndChapter
 Read,Menu - Load6A
 
@@ -40,3 +38,4 @@ Read,Menu - LoadEpilogue
 Read,0 - Epilogue,Start
 
    1
+FileTime

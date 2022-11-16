@@ -1,4 +1,4 @@
-RecordCount: 2551
+RecordCount: 2556
 
 #Setup
 console load 5
@@ -8,15 +8,16 @@ console load 5
 Read,5A.tas,0,lvl_b-02
 
 #lvl_b-02
-  10,R,D,X
+   4,R,D,X
+   2,R,J
+   8,R
    1,R,J
-   7,R
   14,R,D,X
    1,R,J
    7
    6,L
   15,L,D,X
-  35,L
+  36,L
   66,R,X
   40
 
