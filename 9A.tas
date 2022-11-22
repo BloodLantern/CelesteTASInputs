@@ -1,4 +1,4 @@
-RecordCount: 821
+RecordCount: 946
 
 console load 10
    1
@@ -396,4 +396,69 @@ console load 10
   40
 
 #lvl_b-06
+   5,R
+   5,R,J
+  15,R,D,X
+  13,R,C
+   7,R,J
+   3,R
+  27
+   6,D
+   1,R,J
+  15,R,X
+  11,D,C
+  11,R
+  15,R
+  15,R,U,X
+   3,R
+  11,R,J
+   8
+  11,D
+  11,L,D
+  15,L,X
+   6,L,J
+   5,L
+  12,D,X
+   3,L
+  15,D,X
+   3,R,D
+  15,D,X
+  31,R
+  18,R,U,X
+   3,R
+  11,R,J
+  15,R,U,X
+   3,R
+  11,R,J
+  50,R
+  15,R,U,X
+   3,R
+  11,R,J
+  18,R
+  12,R,J,G
+  12,K,G
+   5,J,G
+   1,L,J
+   1,R,J
+   3
+  60,U,X
+   2,R
+  12,R,X
+   3,R,J
+  40
+
+#lvl_b-07
+   5,R,J
+   3,L,K,G
+  15,U,X
+  15,U,C
+   2,R
+   3
+  15,R,U,X
+  18,R,C
+  15,R,X
+  15,R,U,C
+  22,R
+   5,R,D
+  15,R,X
   40
