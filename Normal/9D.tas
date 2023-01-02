@@ -1,0 +1,33 @@
+RecordCount: 25
+
+console hearts 8
+
+# Setup
+console load nameguysdsidespack/0/10-Farewell
+   1
+
+#lvl_a-00-intro
+***S
+  90
+***S
+  12,J
+   5,L
+  15,U,X
+   1,L
+  12,L,J,G
+   5,L,K,G
+   9,L
+   4,L,Z
+   1,L,J
+   8,L
+  17
+  15,U,X
+   4,L
+ 177
+  40
+
+#lvl_a-00
+***S
+  40
+
+ChapterTime

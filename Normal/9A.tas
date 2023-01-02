@@ -1,4 +1,4 @@
-RecordCount: 1828
+RecordCount: 1878
 
 console load 10
    1
@@ -762,4 +762,34 @@ console load 10
   40
 
 #lvl_e-00z
+   1
+  12,R,J
+   1,R
+   3,R,J
+   2,L,K
+   2,R,J
+   3,L,K
+  12,R,J
+   2
+  14,U,X
+  15,L,J
+   7,L
+  12,R,J
+   5,R
+   4,R,J
+  14,U,X
+  13,L,J
+   8,L
+   2,L,J
+  10,L
+  12,R,J
+  15,R,U,X
+   7,J,G
+   2,L,J
+  14,U,X
+  15,J
+   1
+  40
+
+#lvl_e-00
   40
