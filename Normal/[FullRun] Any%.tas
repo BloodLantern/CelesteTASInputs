@@ -1,4 +1,4 @@
-RecordCount: 110
+RecordCount: 111
 
 #Start
 
@@ -27,7 +27,7 @@ Read,5A-B.tas
 Read,Menu - EndChapter
 Read,Menu - Load6A
 
-Read,6A.tas,Start
+Read,6A-B.tas
 Read,Menu - EndChapter
 Read,Menu - Load7A
 
@@ -38,4 +38,4 @@ Read,Menu - LoadEpilogue
 Read,0 - Epilogue,Start
 
    1
-FileTime: 27:32.451(97203)
+FileTime: 26:41.893(94229)
